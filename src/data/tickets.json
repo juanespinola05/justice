@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": "338104072634761216",
+        "category": "support",
+        "ticket_id": "1542",
+        "closed": false,
+        "channel_id": "916095313465475104"
+    },
+    {
+        "user_id": "311925793074839552",
+        "category": "support",
+        "ticket_id": "6263",
+        "closed": false,
+        "channel_id": "916095348596957244",
+        "welcome_message_id": "916095349729411112"
+    }
+]
